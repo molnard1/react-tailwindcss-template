@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 
 export default function App() {
     return [
-		<div className="m-auto bg-gray-600 text-black">Hello TailwindCSS + React!</div>	
+		<div className="text-center text-4xl bg-gray-600 text-black">Hello TailwindCSS + React!</div>	
 	]
 }
 

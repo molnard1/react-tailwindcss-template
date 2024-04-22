@@ -20,7 +20,7 @@
     "concurrently": "^8.2.2",
     "esbuild": "0.20.2",
     "opener": "^1.5.2",
-    "serve": "^14.2.1"
+    "serve": "^14.2.2"
   },
   "dependencies": {
     "react": "^18.2.0",
